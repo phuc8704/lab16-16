@@ -1,0 +1,16 @@
+iframe[name=page]{
+    width: 100%;
+    min-height: 400px;
+}
+.menu>nav{
+    line-height: 40px;
+    background-color: pink;
+    color: white;
+    text-align: center;
+    font-variant: small-caps;
+}
+.menu>nav>a{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
